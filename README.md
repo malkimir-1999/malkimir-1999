@@ -1,6 +1,6 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Amir — a Software Engineer 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-@MateenMasood-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malikamir-ui-designer/)
+[![Linkedin Badge](https://img.shields.io/badge/-@MalikAmir-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malikamir-ui-designer/)
 
 <img src="https://raw.githubusercontent.com/MateenMasood/MateenMasood/master/assets/github-snake-dark.svg" />
   
