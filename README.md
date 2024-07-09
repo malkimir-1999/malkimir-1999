@@ -12,10 +12,11 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently developing stuff with JavaScript/TypeScript, Node.js, Nest.js ,React, Next.js, Mongodb, MySQL.
-- 🚀 &nbsp; I’m currently learning about Linux, DevOps and playing around with Python.
+- 🛠 &nbsp; I'm currently designing & developing stuff with HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript/TypeScript, React and Angular.
+- 🛠 &nbsp; I'm currently UI/UX Designing stuff with Figma, Sketch, Adobe xd, Adobe Photshop, Adobe Illustrator.
+- 🚀 &nbsp; I’m currently learning about Angular with TypeScript, .
 
-- 📫 &nbsp; How to reach me: mateenmasood007@gmail.com
+- 📫 &nbsp; How to reach me: customtemplate30@gmail.com
 
 ### My Absolute Favorites:
 
@@ -66,9 +67,9 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows / Linux</li>
-  	  <li><b>Browser: </b> Firefox / Brave Browser / Google Chrome </li>
-	  <li><b>Code Editor:</b> Visual Studio Code / WebStorm / PhpStorm / Sublime Text </li>
-	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels, Blogs</li>
+  	  <li><b>Browser: </b> Firefox / Brave Browser / Google Chrome/ Internet Explorer </li>
+	  <li><b>Code Editor:</b> Visual Studio Code / WebStorm / Sublime Text / Dreamweaver </li>
+	  <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Tech YouTube Channels, Blogs</li>
 	</ul>
 
 </details>
