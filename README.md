@@ -1,12 +1,14 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Malik Amir — UI/UX Designer & Frontend Developer 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-@MalikAmir-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malikamir-ui-designer/)
+[![Behance Badge](https://img.shields.io/badge/-@MalikAmir-1769ff?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/amirayat)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://webtsol.com/)
 
 <img src="https://raw.githubusercontent.com/MateenMasood/MateenMasood/master/assets/github-snake-dark.svg" />
   
 ### Glad to see you here!
 
-"🚀 Senior Software Engineer | Forever Curious 🤓 | Turning My Hobby into Code 💻 | Passionate Tech Enthusiast 💬 | Let's Talk Tech! 💡"
+"🚀 Senior UI/UX Designer | Frontend Designer & Developer | Software Engineer | Forever Curious 🤓 | Turning My Hobby into Code 💻 | Passionate Tech Enthusiast 💬 | Let's Talk Tech! 💡"
 
 <img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 
@@ -25,19 +27,35 @@
 
 ### Languages and Tools:
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/273370085-519bfaf3-c242-431e-a269-876979f05574.png" alt="typescript"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="35" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="laravel"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/html/html.png" alt="HTML5"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/css/css.png" alt="CSS"></code>
+<code><img height="35" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="SASS"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/tailwind/tailwind.png" alt="Tailwind"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/jquery/jquery.png" alt="jQuery"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/react/react.png" alt="React"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/angular/angular.png" alt="Angular"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/wordpress/wordpress.png" alt="WordPress"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Adobe Photoshop"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.png" alt="Adobe Illustrator"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.png" alt="Adobe XD"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Sketch_Logo.svg" alt="Sketch"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/7312018?s=200&v=4" alt="Jira"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/49/InVision_Logo_2018.svg" alt="InVision"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/08a9c46f5dc8d4ed40d6d78dc9a84d4f587d7834/topics/git/git.png" alt="Git"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/00/WordPress_logo.svg" alt="WordPress"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Divi_by_Elegant_Themes_Logo.svg" alt="Divi Builder"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Elementor_logo.svg" alt="Elementor Builder"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Chrome_Logo.png" alt="Google Chrome"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Internet_Explorer_10_logo.svg" alt="Internet Explorer"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Firefox_logo%2C_2019.png" alt="Firefox"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="Sublime Text"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Dreamweaver_CC_icon.svg" alt="Dreamweaver"></code>
+
 
 </code>
 
