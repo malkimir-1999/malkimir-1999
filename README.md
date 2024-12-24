@@ -41,12 +41,25 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="laravel"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
 
-### Communication Protocols:
-
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="http"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="RestApi"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP"></code>
+### Best Communication Protocols:
+### Slack
+A real-time messaging platform for team communication and file sharing.
+### Microsoft Teams
+Ideal for chat, meetings, and collaboration within teams.
+### Zoom
+A popular choice for virtual meetings and video conferencing.
+### Figma/Adobe XD Comments
+For design-specific feedback and real-time collaboration on design tools.
+### Asana
+Task management and communication for project tracking.
+### Jira
+Used for agile development tracking and detailed project workflows.
+### GitHub/GitLab Discussions
+For version control communication related to frontend development.
+### Google Workspace (Docs/Sheets/Meet)
+For document collaboration, spreadsheets, and video meetings.
+### Email (Outlook/Gmail)
+For formal communication and client correspondence.
 
 ### DevOps:
 
