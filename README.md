@@ -42,24 +42,32 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
 
 ### Best Communication Protocols:
-### Slack
+
+- Slack
 A real-time messaging platform for team communication and file sharing.
-### Microsoft Teams
+- Microsoft Teams
 Ideal for chat, meetings, and collaboration within teams.
-### Zoom
+- Zoom
 A popular choice for virtual meetings and video conferencing.
-### Figma/Adobe XD Comments
+- Figma/Adobe XD Comments
 For design-specific feedback and real-time collaboration on design tools.
-### Asana
+- Asana
 Task management and communication for project tracking.
-### Jira
+- Jira
 Used for agile development tracking and detailed project workflows.
-### GitHub/GitLab Discussions
+- GitHub/GitLab Discussions
 For version control communication related to frontend development.
-### Google Workspace (Docs/Sheets/Meet)
+- Google Workspace (Docs/Sheets/Meet)
 For document collaboration, spreadsheets, and video meetings.
-### Email (Outlook/Gmail)
+- Email (Outlook/Gmail)
 For formal communication and client correspondence.
+
+### Specialized Design-Development Communication Protocols:
+
+- InVision Freehand
+For brainstorming and collaborative whiteboarding.
+- Miro
+Virtual whiteboard for brainstorming, wireframing, and workshops.
 
 ### DevOps:
 
@@ -70,8 +78,38 @@ For formal communication and client correspondence.
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD"></code>
 
 ### Cloud:
+Cloud Tools
+AWS (Amazon Web Services)
+
+Services: S3 (storage), CloudFront (CDN), Amplify (frontend/backend development).
+Use for hosting, deploying static sites, and building scalable applications.
+Google Cloud Platform (GCP)
+
+Services: Firebase (hosting, authentication, database), Cloud Run, and App Engine.
+Ideal for real-time database needs, hosting, and scalable backend solutions.
+Microsoft Azure
+
+Services: Static Web Apps, Azure DevOps, Blob Storage.
+Offers robust hosting options for React, Angular, or Next.js projects.
+Vercel
+
+Purpose: Hosting and deploying Next.js apps.
+Best for frontend developers working on Jamstack projects.
+Netlify
+
+Purpose: Hosting and deploying static sites.
+Simplifies CI/CD for frontend projects.
+
+### Cloudflare
 
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="CI/CD"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google Cloud"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google Cloud"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"></code>
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel"></code>
+<code><img height="35" src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Netlify"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png" alt="Cloudflare"></code>
+<code></code>
 
 ### Projects and Dev Stuffs:
 
