@@ -14,9 +14,9 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently designing & developing stuff with HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript/TypeScript, React and Angular.
+- 🛠 &nbsp; I'm currently designing & developing stuff with HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript/TypeScript, React and Next.
 - 🛠 &nbsp; I'm currently UI/UX Designing stuff with Figma, Sketch, Adobe xd, Adobe Photshop, Adobe Illustrator.
-- 🚀 &nbsp; I’m currently learning about Angular with TypeScript, .
+- 🚀 &nbsp; I’m currently learning about NextJS with TypeScript, .
 
 - 📫 &nbsp; How to reach me: customtemplate30@gmail.com
 
@@ -31,8 +31,6 @@
 ### Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/273370085-519bfaf3-c242-431e-a269-876979f05574.png" alt="typescript"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="35" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs"></code>
 
