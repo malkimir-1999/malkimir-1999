@@ -77,40 +77,6 @@ Virtual whiteboard for brainstorming, wireframing, and workshops.
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD"></code>
 
-### Cloud:
-Cloud Tools
-AWS (Amazon Web Services)
-
-Services: S3 (storage), CloudFront (CDN), Amplify (frontend/backend development).
-Use for hosting, deploying static sites, and building scalable applications.
-Google Cloud Platform (GCP)
-
-Services: Firebase (hosting, authentication, database), Cloud Run, and App Engine.
-Ideal for real-time database needs, hosting, and scalable backend solutions.
-Microsoft Azure
-
-Services: Static Web Apps, Azure DevOps, Blob Storage.
-Offers robust hosting options for React, Angular, or Next.js projects.
-Vercel
-
-Purpose: Hosting and deploying Next.js apps.
-Best for frontend developers working on Jamstack projects.
-Netlify
-
-Purpose: Hosting and deploying static sites.
-Simplifies CI/CD for frontend projects.
-
-### Cloudflare
-
-<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="CI/CD"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google Cloud"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google Cloud"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"></code>
-<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel"></code>
-<code><img height="35" src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Netlify"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png" alt="Cloudflare"></code>
-<code></code>
-
 ### Projects and Dev Stuffs:
 
 <details>	
